@@ -1,0 +1,2 @@
+# randomg
+generate random numbers
